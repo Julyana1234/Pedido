@@ -1,0 +1,50 @@
+.pergunta {
+    text-align: center;
+    padding: 100px;
+    font-size: 50px;
+}
+
+.btn-1 {
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    margin: 200px auto 0 400px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+}
+
+.btn-2 {
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    margin: 200px 30px 0 400px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+}
+
+.btn-3 {
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    margin: 400px 30px 0 400px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+}
+
+.imagem {
+    background-image: url(coracao.jpg);
+    height: 100%;
+    width: 100%;
+}
+
+.aceito {
+    text-align: center;
+    font-size: 100px;
+    padding-top: 100px;
+}
